@@ -1,0 +1,121 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #34495e;
+    margin-top: 20px;
+}
+
+h2, h3 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    margin: 10px;
+}
+
+i {
+    color: #2980b9;
+    font-style: italic;
+}
+
+
+img {
+    max-width: 300px;
+    height: auto;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.hobby {
+    margin: 20px 0;
+}
+
+.hobby ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.hobby ul li {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #8e44ad;
+}
+
+
+.dish {
+    margin: 20px 0;
+}
+
+.dish p {
+    font-size: 18px;
+    color: #e74c3c;
+}
+
+
+.skills {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: left;
+}
+
+.skills h3 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.skills li {
+    list-style-type: disc;
+    font-size: 18px;
+    color: #16a085;
+    margin-bottom: 8px;
+    margin-left: 20px;
+}
+
+
+footer {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    margin: 0;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: #ecf0f1;
+}
+
+footer a {
+    color: #1abc9c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #16a085;
+}
